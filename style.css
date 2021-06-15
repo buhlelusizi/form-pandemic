@@ -1,0 +1,33 @@
+body{
+background-color: #cdf9fc;
+background-size: cover;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#form{
+  text-align: center;
+}
+h1{
+    text-align: center;
+}
+.question{
+    font-size: 16pt;
+    
+}
+.name{
+    font-size: 16pt; 
+}
+p{
+    font-size: 25pt;
+}
+#answer{
+    font-size: larger;
+}
+.submit{
+    background-color: rgb(39, 82, 33);
+    font-size: 16pt;
+    color: white;
+    border: 50px;
+}
+hr{
+    width:210px
+}
